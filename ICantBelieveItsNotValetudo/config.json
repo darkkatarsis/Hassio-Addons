@@ -13,6 +13,7 @@
     "i386"
   ],
   "startup": "system",
+  "image": "darkkatarsis/hassio-icantbelieveitsnotvaletudo-{arch}",
   "boot": "auto",
   "ports": {
     "3000/tcp": null
